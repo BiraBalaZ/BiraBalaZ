@@ -1,4 +1,4 @@
-### Olá! Eu sou Erick Monteiro, prefiro que me chamem de Bira! 👋
+### Olá! Eu sou Bira! 👋
 
 <!--
 **BiraBalaZ/BiraBalaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ PARA OS LINKS DDE REDES: https://dev.to/envoy_/150-badges-for-github-pnk
 - ⚡ Fato Engraçado: Eu amo TicTac.
 
 -->
-<div align="center">
+<div>
   <a href="https://github.com/BiraBalaZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=birabalaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&layout=compact&langs_count=7&theme=dracula"/>
