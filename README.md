@@ -1,16 +1,42 @@
-### Hi there 👋
+### Olá! Eu sou Erick Monteiro, prefiro que me chamem de Bira! 👋
 
 <!--
 **BiraBalaZ/BiraBalaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+PARA ENCONTRAR AS IMAGENS DE LINGUAGENS DE PROGRAMAÇÕES: https://devicon.dev
+PARA OS LINKS DDE REDES: https://dev.to/envoy_/150-badges-for-github-pnk
 -->
+
+- 🔭 Hoje estou trabalhando como Jovem Aprendiz em uma empresa de Telecomunicações, setor de Compras.
+- 🌱 Estou estudando Web Design, Ruby, Puthon e C.
+- 📫 Para entrar em contato: erick.m.anjos@gmail.com ou @eriick.monteiro
+- 😄 Pronomes: Ele/Dele
+- ⚡ Fato Engraçado: Eu amo TicTac.
+
+
+<div align="center">
+  <a href="https://github.com/BiraBalaZ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=birabalaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Bira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bira-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bira-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Bira-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+</div>
+  
+  ##
+  
+ <div>
+   <a href="https://linktr.ee/birabalaz" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/eriick.monteiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://birabalaz.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank"></a>
+  <a href = https://www.reddit.com/user/BiraBalaZ"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/erick-monteiro-anjos-328b351b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
