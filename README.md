@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 PARA ENCONTRAR AS IMAGENS DE LINGUAGENS DE PROGRAMAÇÕES: https://devicon.dev
 PARA OS LINKS DDE REDES: https://dev.to/envoy_/150-badges-for-github-pnk
--->
+
 
 - 🔭 Hoje estou trabalhando como Jovem Aprendiz em uma empresa de Telecomunicações, setor de Compras.
 - 🌱 Estou estudando Web Design, Ruby, Puthon e C.
@@ -15,7 +15,7 @@ PARA OS LINKS DDE REDES: https://dev.to/envoy_/150-badges-for-github-pnk
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato Engraçado: Eu amo TicTac.
 
-
+-->
 <div align="center">
   <a href="https://github.com/BiraBalaZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=birabalaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
