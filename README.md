@@ -34,9 +34,9 @@ PARA OS LINKS DDE REDES: https://dev.to/envoy_/150-badges-for-github-pnk
   ##
   
 <div>
-	<a href= "https://linktr.ee/birabalaz"> <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
-	<a href= "https://www.instagram.com/eriick.monteiro/"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-	<a href= "https://birabalaz.itch.io/"> <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank"></a>
-	<a href= "https://www.linkedin.com/in/erick-monteiro-anjos-328b351b6/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-	<a href= "https://www.reddit.com/user/BiraBalaZ"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	<a target="_blank" href= "https://linktr.ee/birabalaz"> <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+	<a target="_blank" href= "https://www.instagram.com/eriick.monteiro/"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+	<a target="_blank" href= "https://birabalaz.itch.io/"> <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
+	<a target="_blank" href= "https://www.linkedin.com/in/erick-monteiro-anjos-328b351b6/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a target="_blank" href= "https://www.reddit.com/user/BiraBalaZ"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
