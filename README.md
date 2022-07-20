@@ -28,8 +28,8 @@ PARA OS LINKS DDE REDES: https://dev.to/envoy_/150-badges-for-github-pnk
   <img align="center" alt="Bira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bira-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Bira-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-</div>
   <img align="center" alt="Bira-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
   
   ##
   
