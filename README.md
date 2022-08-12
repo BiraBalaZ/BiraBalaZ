@@ -14,13 +14,16 @@ PARA OS LINKS DE REDES: https://dev.to/envoy_/150-badges-for-github-pnk
 - 📫 Para entrar em contato: erick.m.anjos@gmail.com ou @eriick.monteiro
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato Engraçado: Eu amo TicTac.
--->
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&layout=compact&langs_count=7&theme=dark"/> -->
 
 <div align: "center">
   <a href="https://github.com/BiraBalaZ">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=birabalaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&layout=compact&langs_count=7&theme=dracula&hide_border=false"/>
 </div>
+
+
   
   <div style="display: inline_block"><br>
   <!--<img align="center" alt="Bira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
