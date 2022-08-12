@@ -14,22 +14,22 @@ PARA OS LINKS DE REDES: https://dev.to/envoy_/150-badges-for-github-pnk
 - 📫 Para entrar em contato: erick.m.anjos@gmail.com ou @eriick.monteiro
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato Engraçado: Eu amo TicTac.
-
 -->
+
 <div align: "center">
   <a href="https://github.com/BiraBalaZ">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=birabalaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=birabalaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
   <!--<img align="center" alt="Bira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
-  <img align="center" alt="Bira-Gamemaker" height="30" width="40" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1653389763">
   <img align="center" alt="Bira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bira-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Bira-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Bira-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bira-Gamemaker" height="30" width="40" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1653389763">
 </div>
   
   ##
