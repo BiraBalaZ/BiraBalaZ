@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 PARA ENCONTRAR AS IMAGENS DE LINGUAGENS DE PROGRAMAÇÕES: https://devicon.dev
-PARA OS LINKS DDE REDES: https://dev.to/envoy_/150-badges-for-github-pnk
+PARA OS LINKS DE REDES: https://dev.to/envoy_/150-badges-for-github-pnk
 
 
 - 🔭 Hoje estou trabalhando como Jovem Aprendiz em uma empresa de Telecomunicações, setor de Compras.
@@ -29,6 +29,7 @@ PARA OS LINKS DDE REDES: https://dev.to/envoy_/150-badges-for-github-pnk
   <img align="center" alt="Bira-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Bira-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Bira-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bira-Gamemaker" height="30" width="40" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1653389763">
 </div>
   
   ##
