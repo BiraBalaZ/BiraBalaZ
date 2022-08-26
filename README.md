@@ -1,4 +1,4 @@
-### Olá! Eu sou Bira! 👋
+### My friends call me Bira! 👋
 
 <!--
 **BiraBalaZ/BiraBalaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
