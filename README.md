@@ -14,7 +14,7 @@ PARA OS LINKS DE REDES: https://dev.to/envoy_/150-badges-for-github-pnk
 - 📫 Para entrar em contato: erick.m.anjos@gmail.com ou @eriick.monteiro
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato Engraçado: Eu amo TicTac.
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&&langs_count=8&theme=dracula"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&layout=compact&langs_count=7&theme=dark"/> -->
 
 <div align: "center">
