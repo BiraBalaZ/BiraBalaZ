@@ -15,12 +15,19 @@ PARA OS LINKS DE REDES: https://dev.to/envoy_/150-badges-for-github-pnk
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato Engraçado: Eu amo TicTac.
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&&langs_count=7&theme=dracula"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&layout=compact&langs_count=7&theme=dark"/> -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&layout=compact&langs_count=7&theme=dark"/> 
 
 <div align: "center">
   <a href="https://github.com/BiraBalaZ">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=birabalaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&layout=compact&langs_count=8&theme=dracula&hide_border=false"/>
+</div>
+-->
+
+<div align: "center">
+  <a href="https://github.com/BiraBalaZ">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=birabalaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&layout=compact&langs_count=8&theme=dracula&hide_border=false&card_width=400"/>
 </div>
 
 
