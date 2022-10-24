@@ -10,11 +10,13 @@
   
   ## Softwares
   
+
+  <img align="center" alt="Bira-SonyVegas" height="30" width="30"  src="https://user-images.githubusercontent.com/85596186/197551413-db533b4a-ca13-465b-8e84-eede970f1808.png" />
   <img align="center" alt="Bira-VS Code" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Bira-Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Bira-GitHub" height="30" width="30" src="https://user-images.githubusercontent.com/85596186/197550500-e095478b-f97b-43d1-9df1-02718e3ba928.png" />
-  <img align="center" alt="Bira-Opera" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" />
-  <img align="center" alt="Bira-Chrome" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
+  <img align="center" alt="Bira-Opera" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg"/>
+  <img align="center" alt="Bira-Chrome" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
   <!--<img align="center" alt="Bira-MySQL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">-->
  
  ## Linguagens
