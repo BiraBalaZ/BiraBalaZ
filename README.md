@@ -43,3 +43,10 @@
 	<a target="_blank" href= "https://www.reddit.com/user/BiraBalaZ"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white=for-the-badge&logo=gmail&logoColor=white"></a>
 	<a target="_blank" href= "https://www.buymeacoffee.com/erickmonteiro"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffe&logoColor=black=for-the-badge&logo=gmail&logoColor=black"></a>	
 </div>
+
+##
+
+<p align="center"> 
+  Contagem de Visitantes<br>
+  <img src="https://profile-counter.glitch.me/birabalaz/count.svg" />
+</p>
