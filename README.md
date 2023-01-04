@@ -1,4 +1,8 @@
-### My friends call me Bira 👋
+<!--### My friends call me Bira 👋 -->
+
+<div>
+	<img src="https://readme-typing-svg.herokuapp.com/?color=Ufff&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hello+Everyone!;My+name+is+Erick%2C+but+my+friends+call+me+Bira;Im+studying+to+be+a+Python+developer.">
+</div>
 
 <div align: "center">
   <a href="https://github.com/BiraBalaZ">
