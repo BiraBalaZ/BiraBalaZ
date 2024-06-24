@@ -35,8 +35,8 @@
   <img align="center" alt="Bira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bira-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!--<img align="center" alt="Bira-Gamemaker" height="30" width="40" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg">
-  <img align="center" alt="Bira-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">-->
+  <!--<img align="center" alt="Bira-Gamemaker" height="30" width="40" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg">-->
+  <img align="center" alt="Bira-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Bira-MySQL" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
