@@ -46,7 +46,7 @@
 	<a target="_blank" href= "https://linktr.ee/birabalaz"> <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 	<a target="_blank" href= "https://www.instagram.com/eriick.monteiro/"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 	<!--<a target="_blank" href= "https://birabalaz.itch.io/"> <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>-->
-	<a target="_blank" href= "https://www.linkedin.com/in/erick-monteiro-anjos-328b351b6/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a target="_blank" href= "https://www.linkedin.com/in/erick-monteiro-328b351b6/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<!-- <a target="_blank" href= "https://www.reddit.com/user/BiraBalaZ"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white=for-the-badge&logo=gmail&logoColor=white"></a>
 	<a target="_blank" href= "https://www.buymeacoffee.com/erickmonteiro"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffe&logoColor=black=for-the-badge&logo=gmail&logoColor=black"></a>	 -->
 </div>
