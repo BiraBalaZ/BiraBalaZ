@@ -1,7 +1,7 @@
-<div>
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=Ufff&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hello+Everyone!+My+name+is+Erick;Im+studying+to+be+a+Web+Developer.">
 </div>
-<div>
+<div align="center">
     <a href="https://github.com/BiraBalaZ">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=birabalaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&borders=false"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birabalaz&layout=compact&langs_count=8&theme=dracula&hide_&card_width=365"/>
