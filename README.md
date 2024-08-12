@@ -29,14 +29,6 @@
   <img align="center" alt="PHP Icon"    height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="MySQL Icon"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 </div>
-  
-## Find me:
-<div>
-    <a target="_blank" href= "https://linktr.ee/birabalaz"> <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
-    <a target="_blank" href= "https://www.instagram.com/eriick.monteiro/"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <!--<a target="_blank" href= "https://birabalaz.itch.io/"> <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>-->
-    <a target="_blank" href= "https://www.linkedin.com/in/eriick-monteiro/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
 
 ## Some of my websites (in chronological order)
 <div>
