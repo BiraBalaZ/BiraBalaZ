@@ -34,11 +34,12 @@
 <div>
   <ul>
     <li><a target="_blank" href="https://birabalaz.github.io/Landing-Page-Moveleiros/HTML/index.html">Moveleiros</a>
-    <li><a target="_blank" href="https://birabalaz.github.io/Projeto-Android/">Projeto Androiid</a>
+    <li><a target="_blank" href="https://birabalaz.github.io/Projeto-Android/">Projeto Android</a>
     <li><a target="_blank" href="https://birabalaz.github.io/CoolPage/">CoolPage</a>
     <li><a target="_blank" href="https://birabalaz.github.io/Daily-Coffee/">Daily Coffee (not finished)</a>
     <li><a target="_blank" href="https://birabalaz.github.io/PlaceInDocumentation/">PlaceIn Documentation</a>
     <li><a target="_blank" href="https://birabalaz.github.io/AnizStudio/">AnizStudio</a>
+    <li><a target="_blank" href="https://birabalaz.github.io/VirtualEnviroments/">Virtual Enviroments</li>
   </ul>
 </div>
 
