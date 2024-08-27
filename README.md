@@ -40,7 +40,7 @@
     <li><a target="_blank" href="https://birabalaz.github.io/PlaceInDocumentation/">PlaceIn Documentation</a>
     <li><a target="_blank" href="https://birabalaz.github.io/AnizStudio/">AnizStudio</a>
     <li><a target="_blank" href="https://birabalaz.github.io/VirtualEnviroments/">Virtual Enviroments</li>
-    <li><a target="_blank" href="https://birabalaz.github.io/Git-Commands/">Git Commands</li>/
+    <li><a target="_blank" href="https://birabalaz.github.io/Git-Commands/">Git Commands</li>
   </ul>
 </div>
 
